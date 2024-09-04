@@ -10,8 +10,8 @@ Terraform Blocks
 1. Terraform block : Specifies terraform CLI version, Providers name and version, Backend information/configuration(Manage state)
 2. Providers block : Heart of the Terraform, Declare, install  and use remote providers, Belong to root module
 3. Resource block: Used to declare and  create resources like resourcegroups, vnets, subnets, VM's etc. Can also configure post resource creation actions like install softwares and run script files.
-4. locals block
-5. variables block
-6. output block
-7. Data block
-8. Modules block
+4. locals block:
+5. variables block:
+6. output block:
+7. Data block:
+8. Modules block:
